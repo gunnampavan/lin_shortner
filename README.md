@@ -1,1 +1,1 @@
-# lin_shortner
+# link_shortner
